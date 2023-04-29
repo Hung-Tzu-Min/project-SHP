@@ -1,5 +1,5 @@
 <template>
-  <!--  -->
+  <!-- 123 -->
   <div style="margin-left: 50px;margin-right: 50px;">
     <h1>組件通信高級(**非常重要,面試必備**)</h1>
     <div>
